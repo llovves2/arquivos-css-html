@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+
+  font-family: "Cinzel", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+}
+h2{
+    text-align: center;
+    font-family: sans-serif;
+}
+p{
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p2{
+    text-align: left;
+ 
+  font-family: "Cinzel", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+}
+body{
+  background-color: aquamarine;
+}
